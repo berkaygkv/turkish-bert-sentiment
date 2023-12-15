@@ -1,0 +1,10 @@
+.history
+.ipynb_checkpoints
+.jupyter
+.vscode
+data
+model
+output
+torch-from-scratch-py.py
+torch_from_scratch_colab.ipynb
+torch-from-scratch.ipynb
